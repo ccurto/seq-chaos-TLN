@@ -50,7 +50,7 @@ This function computes and plots fixed points and phase portrait in y-coordinate
 It calls the following functions for plotting fixed points and trajectories.
 
 For fixed points: 
-check_fixedpt_y.m, check_fixed_points.m, and plot_fixed_points.m. 
+check_fixedpt_y.m, check_fixed_points_y.m, and plot_fixed_points.m. 
 
 For trajectories:
 plot_phase_by_chamber.m: plots the x-trajectory and y-trajectory, colored by the R_sigma chamber, for an E-I TLN solution.
