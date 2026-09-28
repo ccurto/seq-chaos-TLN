@@ -58,3 +58,5 @@ plot_phase_by_chamber_4E.m: developed for the 4-cycle E-I TLN to show the flower
 
 5. (additional) plot_phase_by_time_period.m shows the time evolution of a trajectory, with later segments plotted in darker shades.
 This was not used in the accompanying paper.
+
+This README was last updated on September 28, 2026.
